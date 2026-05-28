@@ -88,7 +88,7 @@ Not just shipping features — managing infrastructure, designing systems, and k
 <div align="center">
 
 ![Minecraft](https://img.shields.io/badge/Minecraft-0d1117?style=for-the-badge&logo=minecraft&logoColor=62B47A)
-![SA--MP](https://img.shields.io/badge/SA--MP-0d1117?style=for-the-badge&logo=data:image/png;base64,&logoColor=white&label=SA-MP)
+![SA-MP](https://img.shields.io/badge/SA--MP-F7B500?style=for-the-badge&logoColor=0d1117)
 ![FiveM](https://img.shields.io/badge/FiveM-0d1117?style=for-the-badge&logo=fivem&logoColor=F40552)
 
 </div>
