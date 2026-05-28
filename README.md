@@ -16,15 +16,15 @@
 │   ██████╔╝██║  ██║ ╚████╔╝ ██║██║ ╚████║                  │
 │   ╚═════╝ ╚═╝  ╚═╝  ╚═══╝  ╚═╝╚═╝  ╚═══╝                  │
 │                                                             │
-│              network · cloud · infrastructure               │
+│         web dev · network · cloud · infrastructure          │
 └─────────────────────────────────────────────────────────────┘
 ```
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=500&lines=Web+Developer+%26+Network+Engineer;TypeScript+%7C+React+%7C+Next.js+%7C+Laravel;Mikrotik+%7C+AWS+%7C+Cloud+Infra;Building+things+that+actually+work." alt="Typing SVG" />
+</a>
+
 </div>
-
----
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=500&lines=Network+%26+Cloud+Engineering+enthusiast;Learning+one+subnet+at+a+time...;Packet+Tracer+→+Linux+→+Cloud;Building+the+foundation+first." alt="Typing SVG" />
 
 ---
 
@@ -34,16 +34,15 @@
 
 ```yaml
 name        : Davin Maritza
-focus       : Network & Cloud Engineering
-status      : Learning — seriously.
-currently   : Cisco Packet Tracer + Linux → AWS
+role        : Web Developer & Network Engineering learner
 website     : https://davinn.net
-mindset     : "Get the fundamentals right, everything else follows."
+stack       : TypeScript, React, Next.js, Laravel, Node.js
+network     : Mikrotik, Cisco, AWS, Proxmox
+currently   : Diving deeper into Cloud Networking & Infrastructure
 ```
 
-Still early in the journey — but deliberate about it.
-Started with network simulations, now building toward real cloud infrastructure.
-Interested in how networks scale, how they're monitored, and eventually how they're automated.
+Full-stack developer who's also serious about networking and infrastructure.
+Not just building apps — understanding what runs underneath them too.
 
 ---
 
@@ -51,16 +50,41 @@ Interested in how networks scale, how they're monitored, and eventually how they
 
 ## `$ ls ./skills`
 
+### 🌐 Web Development
+
 <div align="center">
 
-| Layer | Stack | Status |
-|:------|:------|:------:|
-| Simulation | Cisco Packet Tracer | `active` |
-| OS | Linux — CLI & networking | `active` |
-| Cloud | AWS — VPC, subnets, SG | `learning` |
-| Virtualization | Proxmox — home lab | `exploring` |
-| Observability | Grafana + Prometheus | `exploring` |
-| Automation | Python + AWS CLI | `queued` |
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-0d1117?style=for-the-badge&logo=laravel&logoColor=FF2D20)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=339933)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
+
+</div>
+
+### 🖧 Network & Infrastructure
+
+<div align="center">
+
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Cisco](https://img.shields.io/badge/Cisco-0d1117?style=for-the-badge&logo=cisco&logoColor=1BA0D7)
+![Mikrotik](https://img.shields.io/badge/Mikrotik-0d1117?style=for-the-badge&logo=mikrotik&logoColor=CC0000)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-0d1117?style=for-the-badge&logo=cloudflare&logoColor=F38020)
+![Proxmox](https://img.shields.io/badge/Proxmox-0d1117?style=for-the-badge&logo=proxmox&logoColor=E57000)
+![Grafana](https://img.shields.io/badge/Grafana-0d1117?style=for-the-badge&logo=grafana&logoColor=F46800)
+
+</div>
+
+### 🎨 Design & Others
+
+<div align="center">
+
+![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Game Server](https://img.shields.io/badge/Game_Server-0d1117?style=for-the-badge&logo=unity&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
 
 </div>
 
@@ -71,33 +95,15 @@ Interested in how networks scale, how they're monitored, and eventually how they
 ## `$ cat roadmap.txt`
 
 ```
+▓▓▓▓▓▓▓▓▓░  Full-stack web development
 ▓▓▓▓▓▓▓▓░░  TCP/IP fundamentals & subnetting
-▓▓▓▓▓▓▓░░░  Cisco Packet Tracer — routing & switching
+▓▓▓▓▓▓▓░░░  Cisco Packet Tracer & Mikrotik
 ▓▓▓▓▓░░░░░  Linux CLI & system networking
-▓▓░░░░░░░░  AWS VPC from scratch
+▓▓░░░░░░░░  AWS Cloud — VPC, subnets, security groups
 ░░░░░░░░░░  Site-to-Site VPN simulation
 ░░░░░░░░░░  Monitoring stack on home lab
 ░░░░░░░░░░  Network automation with Python
 ```
-
----
-
-<br>
-
-## `$ neofetch --tools`
-
-<div align="center">
-
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-1a1a2e?style=for-the-badge&logo=grafana&logoColor=F46800)
-![Prometheus](https://img.shields.io/badge/Prometheus-1a1a2e?style=for-the-badge&logo=prometheus&logoColor=E6522C)
-![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=3776AB)
-![Git](https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=F05032)
-
-</div>
 
 ---
 
