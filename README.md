@@ -147,8 +147,10 @@ Not just shipping features — managing infrastructure, designing systems, and k
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=davinmaritza&show_icons=true&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davinmaritza&layout=compact&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9&langs_count=8" />
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=davinmaritza&bg_color=0d1117&color=0ea5e9&line=0ea5e9&point=ffffff&area=true&hide_border=true)
 
 </div>
 
