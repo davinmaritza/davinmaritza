@@ -166,6 +166,15 @@ Not just shipping features — managing infrastructure, designing systems, and k
 PING davinn.net — response time: instant
 ```
 
+---
+
+<br>
+
+## `$ wakatime --stats --weekly`
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 [![Website](https://img.shields.io/badge/davinn.net-0d1117?style=for-the-badge&logo=googlechrome&logoColor=0ea5e9)](https://davinn.net)
 [![ByteNodes](https://img.shields.io/badge/bytenodes.icu-0d1117?style=for-the-badge&logo=serverless&logoColor=0ea5e9)](https://bytenodes.icu)
 [![GitHub](https://img.shields.io/badge/@davinmaritza-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davinmaritza)
