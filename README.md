@@ -175,13 +175,13 @@ PING davinn.net — response time: instant
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 July 2026 - To: 11 July 2026
+From: 05 July 2026 - To: 12 July 2026
 
-Markdown         1 hr 51 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.17 %
-Other            1 hr 29 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.58 %
-Blade Template   1 hr 18 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.77 %
-JavaScript       1 hr 16 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 %
-TypeScript       1 hr                  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.87 %
+Other            7 hrs 17 mins         ████████▒░░░░░░░░░░░░░░░░   33.92 %
+TypeScript       3 hrs 13 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.02 %
+Markdown         2 hrs 39 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.38 %
+Bash             2 hrs 19 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.84 %
+Blade Template   2 hrs 10 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.12 %
 ```
 
 <!--END_SECTION:waka-->
