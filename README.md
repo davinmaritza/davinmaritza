@@ -175,13 +175,13 @@ PING davinn.net — response time: instant
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 July 2026 - To: 24 July 2026
+From: 18 July 2026 - To: 25 July 2026
 
-Go           5 hrs 49 mins         ██████████▒░░░░░░░░░░░░░░   41.36 %
-Other        2 hrs 47 mins         █████░░░░░░░░░░░░░░░░░░░░   19.82 %
-Python       2 hrs 24 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.05 %
-Markdown     1 hr 24 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.94 %
-TypeScript   28 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
+Go           6 hrs 11 mins         ███████████░░░░░░░░░░░░░░   43.66 %
+Python       3 hrs 41 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.11 %
+Markdown     1 hr 7 mins           ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 %
+Other        1 hr 4 mins           ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 %
+TypeScript   58 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 %
 ```
 
 <!--END_SECTION:waka-->
