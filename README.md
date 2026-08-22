@@ -175,13 +175,13 @@ PING davinn.net — response time: instant
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 August 2026 - To: 20 August 2026
+From: 14 August 2026 - To: 21 August 2026
 
-Markdown                   8 hrs 16 mins         █████████░░░░░░░░░░░░░░░░   36.25 %
-Other                      5 hrs 36 mins         ██████░░░░░░░░░░░░░░░░░░░   24.53 %
-YAML                       3 hrs 18 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.50 %
-Python                     1 hr 33 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
-Bash                       1 hr 5 mins           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
+Markdown     10 hrs 35 mins        ████████████▓░░░░░░░░░░░░   50.72 %
+Other        3 hrs 42 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.76 %
+Python       1 hr 33 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
+YAML         1 hr 25 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
+Bash         1 hr 2 mins           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
 ```
 
 <!--END_SECTION:waka-->
