@@ -1,199 +1,124 @@
-<!--
-  ╔══════════════════════════════════════════════════════╗
-  ║           DAVIN MARITZA — GitHub Profile             ║
-  ╚══════════════════════════════════════════════════════╝
--->
-
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   ██████╗  █████╗ ██╗   ██╗██╗███╗   ██╗                  │
-│   ██╔══██╗██╔══██╗██║   ██║██║████╗  ██║                  │
-│   ██║  ██║███████║██║   ██║██║██╔██╗ ██║                  │
-│   ██║  ██║██╔══██║╚██╗ ██╔╝██║██║╚██╗██║                  │
-│   ██████╔╝██║  ██║ ╚████╔╝ ██║██║ ╚████║                  │
-│   ╚═════╝ ╚═╝  ╚═╝  ╚═══╝  ╚═╝╚═╝  ╚═══╝                  │
-│                                                             │
-│     web · network · cloud · game servers · hosting         │
-└─────────────────────────────────────────────────────────────┘
-```
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:38BDF8&height=200&section=header&text=Davin%20Maritza&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Founder%20%40%20ByteNodes&descAlignY=55&descSize=18)
+
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Full-Stack+Web+Developer;Founder+%26+CEO+of+ByteNodes;Game+Server+Infra+%7C+Minecraft+%2F+SA-MP+%2F+FiveM;Currently+in+high+school%2C+running+a+company+on+the+side.)
+
+<img src="https://komarev.com/ghpvc/?username=davinmaritza&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" />
 
 </div>
-
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=14&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=550&lines=Full-Stack+Web+Developer;Network+%26+Cloud+Engineer;CEO+%40+ByteNodes+Hosting;Minecraft+%7C+SAMP+%7C+FiveM+Game+Server+Dev;Building+things+from+0+to+production.)
-
-</div>
-
----
 
 <br>
 
-## `$ whoami`
+## About Me
+
+I'm Davin — 10th grader in the Software Engineering (RPL) program at SMKN 13 Bandung by day, and running infrastructure by night. Officially still a student, unofficially running payroll for a hosting company.
+
+I founded **ByteNodes**, a VPS and game server hosting provider, where I mostly sit on the finance and HR side while the technical team keeps the servers alive. On top of that I work as a DevOps Engineer at Phantomic Host, and I manage podcast production and Instagram content design for Archven Studio. Somewhere in between all of that I still find time to mess with home server setups, automation scripts, and the occasional Minecraft plugin.
+
+What I actually enjoy is the mix — one hour I'm reading a balance sheet, the next I'm debugging a Proxmox cluster. It shouldn't work, but somehow it does.
 
 ```yaml
-name        : Davin Maritza
-roles       : Web Developer / Network Engineer / CEO
-company     : ByteNodes — https://bytenodes.icu
-website     : https://davinn.net
-stack       : TypeScript · React · Next.js · Laravel · Node.js
-network     : Mikrotik · Cisco · AWS · Cloudflare · Proxmox
-game servers: Minecraft · SA-MP · FiveM
-design      : Figma · Canva
-ml          : Python · TensorFlow · scikit-learn
+role:        DevOps Engineer / Founder & CEO / Web Developer
+company:     ByteNodes — https://bytenodes.id
+also at:     Phantomic Host (DevOps), Archven Studio (Content & Podcast Manager)
+studying:    SMKN 13 Bandung, RPL / PPLG (class of 2028)
+based in:    Bandung, Indonesia
+currently:   keeping servers up and grades passing, at the same time
 ```
-
-Full-stack developer, network tinkerer, and hosting CEO.
-Not just shipping features — managing infrastructure, designing systems, and keeping servers alive.
-
----
 
 <br>
 
-## `$ ls ./skills`
-
-**🌐 Web Development**
+## Tech I Work With
 
 <div align="center">
+
+**Web Development**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-0d1117?style=for-the-badge&logo=laravel&logoColor=FF2D20)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
 ![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
-</div>
-
-**🖧 Network & Infrastructure**
-
-<div align="center">
+**DevOps & Infrastructure**
 
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Cisco](https://img.shields.io/badge/Cisco-0d1117?style=for-the-badge&logo=cisco&logoColor=1BA0D7)
-![Mikrotik](https://img.shields.io/badge/Mikrotik-0d1117?style=for-the-badge&logoColor=CC0000&label=&color=0d1117)
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-0d1117?style=for-the-badge&logo=cloudflare&logoColor=F38020)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Proxmox](https://img.shields.io/badge/Proxmox-0d1117?style=for-the-badge&logo=proxmox&logoColor=E57000)
+![Mikrotik](https://img.shields.io/badge/Mikrotik-0d1117?style=for-the-badge&logoColor=CC0000&label=&color=0d1117)
+![Cisco](https://img.shields.io/badge/Cisco-0d1117?style=for-the-badge&logo=cisco&logoColor=1BA0D7)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-0d1117?style=for-the-badge&logo=cloudflare&logoColor=F38020)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
 ![Grafana](https://img.shields.io/badge/Grafana-0d1117?style=for-the-badge&logo=grafana&logoColor=F46800)
 
-</div>
-
-**🎮 Game Servers**
-
-<div align="center">
+**Game Servers**
 
 ![Minecraft](https://img.shields.io/badge/Minecraft-0d1117?style=for-the-badge&logo=minecraft&logoColor=62B47A)
-![SA-MP](https://img.shields.io/badge/SA--MP-F7B500?style=for-the-badge&logoColor=0d1117)
+![SA-MP](https://img.shields.io/badge/SA--MP-0d1117?style=for-the-badge&logoColor=F7B500)
 ![FiveM](https://img.shields.io/badge/FiveM-0d1117?style=for-the-badge&logo=fivem&logoColor=F40552)
 
-</div>
-
-**🎨 Design & AI**
-
-<div align="center">
+**Design & ML**
 
 ![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ![Canva](https://img.shields.io/badge/Canva-0d1117?style=for-the-badge&logo=canva&logoColor=00C4CC)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
 
 </div>
 
----
-
 <br>
 
-## `$ cat roadmap.txt`
-
-```
-▓▓▓▓▓▓▓▓▓░  Full-stack web development
-▓▓▓▓▓▓▓▓░░  Game server setup & management
-▓▓▓▓▓▓▓░░░  Mikrotik & Cisco networking
-▓▓▓▓▓░░░░░  Linux & system administration
-▓▓▓░░░░░░░  AWS Cloud — VPC, subnets, security groups
-▓░░░░░░░░░  Machine learning & data pipelines
-░░░░░░░░░░  Site-to-Site VPN & advanced cloud infra
-░░░░░░░░░░  Network automation with Python
-```
-
----
-
-<br>
-
-## `$ uptime -- bytenodes.icu`
+## GitHub Stats
 
 <div align="center">
 
-> 🖥️ **CEO & Founder** of [ByteNodes](https://bytenodes.icu)
-> Hosting provider — web hosting, game servers, VPS infrastructure.
+<img src="https://github-readme-stats.vercel.app/api?username=davinmaritza&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davinmaritza&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=38BDF8&hide_border=true" width="30%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=davinmaritza&theme=tokyonight&background=0d1117&border=0d1117&ring=38BDF8&fire=38BDF8&hide_border=true" width="60%" />
 
 </div>
 
----
-
 <br>
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=davinmaritza&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS)
-
-</div>
-
-<div align="center">
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=davinmaritza&bg_color=0d1117&color=0ea5e9&line=0ea5e9&point=ffffff&area=true&hide_border=true)
-
-</div>
-
----
-
-<br>
-
-## `$ ping davinn.net`
-
-<div align="center">
-
-```
-PING davinn.net — response time: instant
-```
-
----
-
-<br>
-
-## `$ wakatime --stats --weekly`
+## Weekly Coding Activity
 
 <!--START_SECTION:waka-->
-
 ```txt
-From: 19 August 2026 - To: 26 August 2026
-
-Markdown     22 hrs 31 mins        ████████████████▒░░░░░░░░   65.15 %
-Other        6 hrs 7 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.73 %
-Python       2 hrs 41 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 %
-HTML         1 hr 20 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
-TypeScript   59 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
+Markdown     22 hrs 31 mins  ████████████████▒░░░░░░░░   65.15 %
+Other         6 hrs  7 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.73 %
+Python        2 hrs 41 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 %
+HTML          1 hr  20 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
+TypeScript       59 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
 ```
-
 <!--END_SECTION:waka-->
 
-[![Website](https://img.shields.io/badge/davinn.net-0d1117?style=for-the-badge&logo=googlechrome&logoColor=0ea5e9)](https://davinn.net)
-[![ByteNodes](https://img.shields.io/badge/bytenodes.icu-0d1117?style=for-the-badge&logo=serverless&logoColor=0ea5e9)](https://bytenodes.icu)
+<br>
+
+## Activity Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=davinmaritza&bg_color=0d1117&color=38BDF8&line=38BDF8&point=ffffff&area=true&hide_border=true&hide_title=true" width="95%" />
+</div>
+
+<br>
+
+## Find Me Here
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/davinn.net-0d1117?style=for-the-badge&logo=googlechrome&logoColor=38BDF8)](https://davinn.net)
+[![ByteNodes](https://img.shields.io/badge/bytenodes.id-0d1117?style=for-the-badge&logo=serverless&logoColor=38BDF8)](https://bytenodes.id)
 [![GitHub](https://img.shields.io/badge/@davinmaritza-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davinmaritza)
 
 </div>
 
----
+<br>
 
 <div align="center">
-<sub><code>// still compiling... check back later.</code></sub>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0EA5E9&height=100&section=footer)
+
 </div>
