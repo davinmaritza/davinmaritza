@@ -100,7 +100,7 @@ TypeScript       59 mins     ▓░░░░░░░░░░░░░░░░
 ## Activity Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=davinmaritza&bg_color=0d1117&color=38BDF8&line=38BDF8&point=ffffff&area=true&hide_border=true&hide_title=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=davinmaritza&theme=react-dark&hide_border=true&hide_title=true" width="95%" />
 </div>
 
 <br>
@@ -109,7 +109,7 @@ TypeScript       59 mins     ▓░░░░░░░░░░░░░░░░
 
 <div align="center">
 
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6BZ6pl5bczDc3cMF1kBaOy?utm_source=generator&theme=0" width="80%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+[![Spotify](https://img.shields.io/badge/▶%20Now%20Playing%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/6BZ6pl5bczDc3cMF1kBaOy)
 
 </div>
 
