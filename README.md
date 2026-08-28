@@ -97,10 +97,50 @@ TypeScript       59 mins     ▓░░░░░░░░░░░░░░░░
 
 <br>
 
+## Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=davinmaritza&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" />
+</div>
+
+<br>
+
+## Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/davinmaritza/davinmaritza/output/github-contribution-grid-snake-dark.svg" width="95%" />
+</div>
+
+<br>
+
+## Skills at a Glance
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,laravel,nodejs,mysql,linux,docker,proxmox,cloudflare,aws,figma,py,tensorflow&theme=dark" />
+</div>
+
+<br>
+
+## Quote of the Moment
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+<br>
+
+## Random Dev Joke
+
+<div align="center">
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
+</div>
+
+<br>
+
 ## Activity Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=davinmaritza&theme=react-dark&hide_border=true&hide_title=true" width="95%" />
+<img src="https://ghchart.rshah.org/38BDF8/davinmaritza" alt="Davin's GitHub contribution chart" width="95%" />
 </div>
 
 <br>
@@ -110,6 +150,21 @@ TypeScript       59 mins     ▓░░░░░░░░░░░░░░░░
 <div align="center">
 
 [![Spotify](https://img.shields.io/badge/▶%20Now%20Playing%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/6BZ6pl5bczDc3cMF1kBaOy)
+
+</div>
+
+<br>
+
+## Fun Facts
+
+<div align="center">
+
+| | |
+|---|---|
+| 🖥️ | Runs a hosting company before he can legally sign most contracts |
+| ⚡ | Has debugged a Proxmox node and a math homework problem in the same night |
+| 🎮 | Started with Minecraft server plugins, ended up running real infrastructure |
+| ☕ | Fueled by instant coffee and uptime alerts |
 
 </div>
 
