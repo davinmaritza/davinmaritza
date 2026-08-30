@@ -88,13 +88,13 @@ currently:   keeping servers up and grades passing, at the same time
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 August 2026 - To: 28 August 2026
+From: 22 August 2026 - To: 29 August 2026
 
-Markdown     19 hrs 43 mins        ██████████████░░░░░░░░░░░   56.03 %
-Other        7 hrs 44 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.97 %
-Python       2 hrs 56 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 %
-JavaScript   2 hrs 31 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
-TypeScript   59 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
+Markdown     18 hrs 17 mins        ████████████░░░░░░░░░░░░░   47.99 %
+Other        8 hrs 23 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.02 %
+Python       6 hrs 4 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.95 %
+JavaScript   2 hrs 31 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
+TypeScript   1 hr 17 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
 ```
 
 <!--END_SECTION:waka-->
