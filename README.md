@@ -23,9 +23,6 @@ Currently working as a Network Engineer at Phantomic Host, managing cloud infras
 - **[Multimodal Medical Imaging Pipeline](https://github.com/davinmaritza)**  
   An end-to-end deep learning pipeline for brain tumor segmentation and classification using the BraTS dataset. Deployed with a lightweight FastAPI inference service and Grad-CAM interpretability for medical imaging workflows.
 
-- **[Pterodactyl Espresso Theme](https://github.com/davinmaritza/pterodactyl-espresso-theme)**  
-  An open-source dark warm-minimalist cockpit theme engineered for Pterodactyl Panel v1.11.x server management infrastructure.
-
 ---
 
 ## Technical Stack
