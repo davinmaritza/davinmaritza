@@ -1,4 +1,4 @@
-# Davin Maritza Alfarrezal
+﻿# Davin Maritza Alfarrezal
 
 I engineer production cloud infrastructure, distributed systems, and applied AI applications.
 
@@ -7,6 +7,9 @@ Currently working as a Network Engineer at Phantomic Host, managing cloud infras
 ---
 
 ## Featured Projects
+
+- **[Vigil](https://github.com/davinmaritza/vigil)**  
+  Windows clamshell and thermal cooling guard for long-running AI workloads, coding agents (Antigravity, Claude Code, Cursor), and overnight renders. Features a high-contrast monochrome bento UI, dynamic CPU temperature capping (92% turbo-suppression), AI auto-pilot detection, Wi-Fi auto-reconnect watchdog, and two-tier write-ahead crash recovery journals. Built with C# and .NET 11 WPF.
 
 - **[DareFX](https://github.com/davinmaritza/darefx)**  
   Institutional-grade autonomous AI forex auto-trader for EUR/USD. Combines supervised machine learning with Marcos López de Prado's Triple Barrier labeling, Purged Walk-Forward Cross Validation, and Deflated Sharpe Ratio (DSR) statistical testing, delivering a 2.95 annualized Sharpe Ratio and +30.31% out-of-sample return over 4,519 daily bars.
@@ -27,22 +30,22 @@ Currently working as a Network Engineer at Phantomic Host, managing cloud infras
 
 ## Technical Stack
 
-<img src="https://skillicons.dev/icons?i=py,go,ts,js,react,nextjs,fastapi,nodejs,linux,docker,aws,cloudflare,postgres,tailwind&theme=dark" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=py,go,cs,dotnet,ts,js,react,nextjs,fastapi,nodejs,linux,docker,aws,cloudflare,postgres,tailwind&theme=dark" alt="Tech stack" />
 
 - **Cloud & Infrastructure:** Linux (Debian, Ubuntu), AWS, Hyper-V, WireGuard, Docker, Proxmox VE, Server Provisioning, Network Routing, CI/CD (GitHub Actions), Cloudflare.
-- **Backend & Systems:** Go (Golang), Python, FastAPI, Node.js, TypeScript, JavaScript, React.js, Next.js, Tailwind CSS, REST APIs, WebSockets.
+- **Backend & Systems:** C#, .NET 11, WPF, Go (Golang), Python, FastAPI, Node.js, TypeScript, JavaScript, React.js, Next.js, Tailwind CSS, REST APIs, WebSockets.
 - **AI & Quantitative Engineering:** LangGraph, Multi-Agent Systems, LightGBM, XGBoost, PyTorch, MONAI, Explainable AI (XAI), Scikit-learn, Grad-CAM.
 
 ---
 
 ## Verified Credentials & Honors
 
-- **AWS Academy Graduate:** Cloud Architecting (60 Hours) & Cloud Foundations (20 Hours) — [Credly Verified](https://www.credly.com/users/davin-maritza-alfarrezal)
-- **1st Place (Juara 1):** Artificial Intelligence — LKS SMK Tingkat Kota Bandung (2025)
-- **1st Place (Juara 1):** Generative AI — Terampil di Awan (PwC & AWS PartyRock Tech, 2024)
-- **Gold Medal:** Informatics — Indonesian Science Olympiad (OSSI 2025)
-- **Gold Medal:** Basic Medicine — NUSSAFEST (2025)
-- **Silver Medal:** Informatics — AKSI 2025 & OSSI 2026
+- **AWS Academy Graduate:** Cloud Architecting (60 Hours) & Cloud Foundations (20 Hours) - [Credly Verified](https://www.credly.com/users/davin-maritza-alfarrezal)
+- **1st Place (Juara 1):** Artificial Intelligence - LKS SMK Tingkat Kota Bandung (2025)
+- **1st Place (Juara 1):** Generative AI - Terampil di Awan (PwC & AWS PartyRock Tech, 2024)
+- **Gold Medal:** Informatics - Indonesian Science Olympiad (OSSI 2025)
+- **Gold Medal:** Basic Medicine - NUSSAFEST (2025)
+- **Silver Medal:** Informatics - AKSI 2025 & OSSI 2026
 
 ---
 
