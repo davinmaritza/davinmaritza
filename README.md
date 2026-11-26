@@ -1,59 +1,22 @@
-﻿# Davin Maritza Alfarrezal
+### Davin Maritza
 
-I engineer production cloud infrastructure, distributed systems, and applied AI applications.
+Network Engineer at Phantomic Host, based in Bandung.  
+I work with Linux infrastructure, virtualization, and applied machine learning.
 
-Currently working as a Network Engineer at Phantomic Host, managing cloud infrastructure, bare-metal server provisioning, and network routing policies. Outside of core systems engineering, I build quantitative machine learning systems, autonomous multi-agent pipelines, and virtualization orchestrators.
+**Projects**
+- [davion-ai](https://github.com/davinmaritza/davion-ai) — Cranial MRI diagnostic desktop app (Tauri, React, PyTorch)
+- [crybaby](https://github.com/davinmaritza/crybaby) — Windows 11 Hyper-V cluster manager over WireGuard (Go)
+- [vigil](https://github.com/davinmaritza/vigil) — Windows utility to keep laptops awake with thermal capping (C#)
+- [enterprise-rag](https://github.com/davinmaritza/enterprise-rag) — Hybrid RAG with Qdrant, BM25, and OpenTelemetry (Python)
+- [darefx](https://github.com/davinmaritza/darefx) — EUR/USD ML strategy research with Triple Barrier labeling (Python)
 
----
+**Stack**  
+Python, Go, C#, TypeScript · Linux, Proxmox, Docker, AWS, WireGuard · PyTorch, FastAPI, React
 
-## Featured Projects
+**Credentials**
+- AWS Academy Graduate — Cloud Architecting & Cloud Foundations ([Credly](https://www.credly.com/users/davin-maritza-alfarrezal))
+- 1st Place, Artificial Intelligence — LKS SMK Bandung (2025)
+- 1st Place, Generative AI — Terampil di Awan / PwC & AWS (2024)
+- Gold Medal, Informatics — OSSI (2025)
 
-- **[Vigil](https://github.com/davinmaritza/vigil)**  
-  Windows clamshell and thermal cooling guard for long-running AI workloads, coding agents (Antigravity, Claude Code, Cursor), and overnight renders. Features a high-contrast monochrome bento UI, dynamic CPU temperature capping (92% turbo-suppression), AI auto-pilot detection, Wi-Fi auto-reconnect watchdog, and two-tier write-ahead crash recovery journals. Built with C# and .NET 11 WPF.
-
-- **[DareFX](https://github.com/davinmaritza/darefx)**  
-  Institutional-grade autonomous AI forex auto-trader for EUR/USD. Combines supervised machine learning with Marcos López de Prado's Triple Barrier labeling, Purged Walk-Forward Cross Validation, and Deflated Sharpe Ratio (DSR) statistical testing, delivering a 2.95 annualized Sharpe Ratio and +30.31% out-of-sample return over 4,519 daily bars.
-
-- **[Crybaby](https://github.com/davinmaritza/crybaby)**  
-  Distributed Windows 11 PC cluster orchestrator and client Hyper-V remote virtualization manager. Pools consumer desktop hardware into an encrypted WireGuard mesh compute cluster without Windows Server licensing, complete with 1-click USB provisioning, dynamic vCPU/RAM resizing, and instant VM cloning.
-
-- **[OmniResearch](https://github.com/davinmaritza/omniresearch)**  
-  Autonomous multi-agent deep research and fact-checking intelligence engine. Coordinates specialized planner, researcher, verifier, and writer agents across hybrid live web queries and corporate files with automated claim verification and empirical confidence scoring.
-
-- **[B2B Retention & Churn Intelligence](https://github.com/davinmaritza/b2b-retention-intelligence)**  
-  Enterprise B2B customer retention and churn intelligence platform. Integrates machine learning classification with Explainable AI (XAI) feature attribution translated to executive business metrics, interactive what-if diagnostic stress-testing, and automated risk triage.
-
-- **[Multimodal Medical Imaging Pipeline](https://github.com/davinmaritza)**  
-  An end-to-end deep learning pipeline for brain tumor segmentation and classification using the BraTS dataset. Deployed with a lightweight FastAPI inference service and Grad-CAM interpretability for medical imaging workflows.
-
----
-
-## Technical Stack
-
-<img src="https://skillicons.dev/icons?i=py,go,cs,dotnet,ts,js,react,nextjs,fastapi,nodejs,linux,docker,aws,cloudflare,postgres,tailwind&theme=dark" alt="Tech stack" />
-
-- **Cloud & Infrastructure:** Linux (Debian, Ubuntu), AWS, Hyper-V, WireGuard, Docker, Proxmox VE, Server Provisioning, Network Routing, CI/CD (GitHub Actions), Cloudflare.
-- **Backend & Systems:** C#, .NET 11, WPF, Go (Golang), Python, FastAPI, Node.js, TypeScript, JavaScript, React.js, Next.js, Tailwind CSS, REST APIs, WebSockets.
-- **AI & Quantitative Engineering:** LangGraph, Multi-Agent Systems, LightGBM, XGBoost, PyTorch, MONAI, Explainable AI (XAI), Scikit-learn, Grad-CAM.
-
----
-
-## Verified Credentials & Honors
-
-- **AWS Academy Graduate:** Cloud Architecting (60 Hours) & Cloud Foundations (20 Hours) - [Credly Verified](https://www.credly.com/users/davin-maritza-alfarrezal)
-- **1st Place (Juara 1):** Artificial Intelligence - LKS SMK Tingkat Kota Bandung (2025)
-- **1st Place (Juara 1):** Generative AI - Terampil di Awan (PwC & AWS PartyRock Tech, 2024)
-- **Gold Medal:** Informatics - Indonesian Science Olympiad (OSSI 2025)
-- **Gold Medal:** Basic Medicine - NUSSAFEST (2025)
-- **Silver Medal:** Informatics - AKSI 2025 & OSSI 2026
-
----
-
-## Work with Me
-
-I take on select contract and freelance work involving cloud infrastructure, virtualization systems, and applied machine learning models.
-
-- **Website:** [davinn.net](https://davinn.net)
-- **Email:** [admin@davinn.net](mailto:admin@davinn.net)
-- **LinkedIn:** [linkedin.com/in/davinmaritza](https://linkedin.com/in/davinmaritza)
-- **Certifications:** [credly.com/users/davin-maritza-alfarrezal](https://www.credly.com/users/davin-maritza-alfarrezal)
+[davinn.net](https://davinn.net) · [admin@davinn.net](mailto:admin@davinn.net) · [LinkedIn](https://linkedin.com/in/davinmaritza)
